@@ -89,7 +89,3 @@ def findEmails(area):
 
     print(emailList)
     return emailList
-
-
-
-print(findEmails('Computer Vision'))
